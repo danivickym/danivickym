@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I’m **Dani** (aka **danivickym**) 👋
+# Hi, I’m **danivickym** 👋
 
 Building clean, UX‑first web apps with **TypeScript**, **Next.js**, and a touch of DevOps.
 
